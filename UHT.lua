@@ -11,7 +11,7 @@ local strF = string.format
 local loginTime = 0
 local _
 
-local UHT_LTF = LibStub("LibTableFunctions-1.0")
+local UHT_LTF = LibTableFunctions
 if (not UHT_LTF) then return end
 
 UHT.defaults = {
