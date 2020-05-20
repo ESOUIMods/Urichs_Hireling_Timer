@@ -4,7 +4,7 @@
 ## AddOnVersion: 210
 ## APIVersion: 100030 100031
 ## SavedVariables: UHT_Settings
-## DemendsOn: LibTableFunctions-1.0
+## DependsOn: LibTableFunctions-1.0
 ##
 ## This Add-on is not created by, affiliated with or sponsored by ZeniMax Media
 ## Inc. or its affiliates. The Elder Scrolls® and related logos are registered
